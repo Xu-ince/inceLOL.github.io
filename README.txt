@@ -1,1 +1,1 @@
-https://github.com/Xu-ince/inceLOL.github.io/blob/master/generic.html
+https://xu-ince.github.io/inceLOL.github.io/index.html
